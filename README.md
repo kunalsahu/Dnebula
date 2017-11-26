@@ -1,4 +1,4 @@
 # Dnebula
 Dnebula prime repository
 
-Dnebula is artificail brain.
+Dnebula is artificial brain.
